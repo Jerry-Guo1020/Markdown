@@ -71,9 +71,9 @@
 
 **Java实现方式：**
 
-* `Queue<T>` 接口
-* `LinkedList` 或 `ArrayDeque`
-* `PriorityQueue`（优先队列/堆）
+* 使用`Queue<T>` 接口
+* 使用`LinkedList` 或 `ArrayDeque`
+* 使用`PriorityQueue`（优先队列/堆）
 
 **典型算法题：**
 
